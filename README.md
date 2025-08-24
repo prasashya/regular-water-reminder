@@ -13,6 +13,13 @@ Stay hydrated while working, coding, or studying!
 
 ---
 
+## 📦 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/water-reminder.git
+   cd water-reminder
+   
 ## 🛠️ Requirements
 Make sure you have Python 3 installed and install the required library:
 
