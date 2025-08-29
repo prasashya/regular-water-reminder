@@ -17,7 +17,7 @@ Stay hydrated while working, coding, or studying!
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/water-reminder.git
+   git clone https://github.com/prasashya/water-reminder.git
    cd water-reminder
    
 ## 🛠️ Requirements
